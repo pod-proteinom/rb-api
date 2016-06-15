@@ -1,0 +1,1 @@
+exports.Cities = require('./cities');
